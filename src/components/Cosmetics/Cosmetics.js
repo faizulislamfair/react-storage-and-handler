@@ -3,11 +3,31 @@ import Cosmetic from '../Cosmetic/Cosmetic';
 
 const Cosmetics = () => {
     const cosmetics = [
-        { id: 1, name: 'Shampoo', price: 100 },
-        { id: 2, name: 'Conditioner', price: 200 },
-        { id: 3, name: 'Cream', price: 300 },
-        { id: 4, name: 'Lotion', price: 400 },
-        { id: 5, name: 'Facewash', price: 500 }
+        {
+            "id": "632e7dc1eade9c8f9a9bd973",
+            "price": 575,
+            "name": "Claudette Craft"
+        },
+        {
+            "id": "632e7dc1c6531727b800346e",
+            "price": 75,
+            "name": "Nielsen Pickett"
+        },
+        {
+            "id": "632e7dc156c16d318d44c944",
+            "price": 436,
+            "name": "Savage Miranda"
+        },
+        {
+            "id": "632e7dc1489af49cf901c26d",
+            "price": 578,
+            "name": "Madeline Singleton"
+        },
+        {
+            "id": "632e7dc1c08374aebb77da90",
+            "price": 241,
+            "name": "Brown Mcneil"
+        }
     ]
 
     return (
